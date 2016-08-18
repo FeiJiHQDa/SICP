@@ -1,0 +1,1 @@
+(define (improve guess x) (active guess (/ x guess)))
